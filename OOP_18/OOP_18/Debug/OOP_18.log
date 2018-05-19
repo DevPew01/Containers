@@ -1,0 +1,6 @@
+﻿  main.cpp
+  String.cpp
+c:\users\george\documents\исходники\oop_18\oop_18\string.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\documents\исходники\oop_18\oop_18\string.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OOP_18.vcxproj -> C:\Users\George\Documents\Исходники\OOP_18\Debug\OOP_18.exe
