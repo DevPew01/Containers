@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\geoer\source\repos\matrix\matrix\main.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(51): warning C4018: '<': signed/unsigned mismatch
+  c:\users\geoer\source\repos\matrix\matrix\matrix.h(50): note: while compiling class template member function 'void Matrix<int>::RandSet(void)'
+  c:\users\geoer\source\repos\matrix\matrix\main.cpp(12): note: see reference to function template instantiation 'void Matrix<int>::RandSet(void)' being compiled
+  c:\users\geoer\source\repos\matrix\matrix\main.cpp(8): note: see reference to class template instantiation 'Matrix<int>' being compiled
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\geoer\source\repos\matrix\matrix\matrix.h(41): note: while compiling class template member function 'void Matrix<int>::Show(void)'
+  c:\users\geoer\source\repos\matrix\matrix\main.cpp(13): note: see reference to function template instantiation 'void Matrix<int>::Show(void)' being compiled
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(23): warning C4018: '<': signed/unsigned mismatch
+  c:\users\geoer\source\repos\matrix\matrix\matrix.h(22): note: while compiling class template member function 'Matrix<int>::~Matrix(void)'
+  c:\users\geoer\source\repos\matrix\matrix\main.cpp(8): note: see reference to function template instantiation 'Matrix<int>::~Matrix(void)' being compiled
+c:\users\geoer\source\repos\matrix\matrix\matrix.h(18): warning C4018: '<': signed/unsigned mismatch
+  c:\users\geoer\source\repos\matrix\matrix\matrix.h(15): note: while compiling class template member function 'Matrix<int>::Matrix(int,int)'
+  c:\users\geoer\source\repos\matrix\matrix\main.cpp(8): note: see reference to function template instantiation 'Matrix<int>::Matrix(int,int)' being compiled
+  Matrix.vcxproj -> C:\Users\geoer\source\repos\Matrix\Debug\Matrix.exe
